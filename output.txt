@@ -1,0 +1,5 @@
+50 COP = 1x
+100 COP = 4x
+200 COP = 2x
+1000 COP = 1x
+Total: 1850 COP
